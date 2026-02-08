@@ -14,5 +14,5 @@ This is a companion datapack to [TFC Chalkworks: Barrel Edition](https://github.
 * Changes the Chalk Box recipe to use glue instead of a slimeball.
 
 # Links
-- [Download on CurseForge (link pending)](https://www.curseforge.com/)
-- [Download on modrinth (link pending)](https://modrinth.com/)
+- [Download on CurseForge](https://legacy.curseforge.com/minecraft/data-packs/tfc-chalkworks-barrel-edition-tweaks)
+- [Download on modrinth](https://modrinth.com/datapack/tfc-chalkworks-barrel-edition-tweaks)
