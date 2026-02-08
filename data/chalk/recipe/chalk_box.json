@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P P",
+    "PGP",
+    "PPP"
+  ],
+  "key": {
+    "P": { "item": "minecraft:paper" },
+    "G": { "item": "tfc:glue" }
+  },
+  "result": {
+    "id": "chalk:chalk_box",
+    "count": 1
+  }
+}
